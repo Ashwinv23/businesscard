@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.main-title {
+  color: red;
+  text-align: center;
+  margin-top: -17px;
+  font-weight: 300;
+}
+
+.main-website {
+  text-align: center;
+  margin-top: -10px;
+  font-weight: 300;
+}
+.main-content {
+  padding-left: 30px;
+  width: 270px;
+}
+
+.main-main {
+  height: 450px;
+}
+
+button {
+  height: 35px;
+  width: 100px;
+}
